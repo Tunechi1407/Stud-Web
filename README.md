@@ -1,0 +1,2 @@
+# Stud-Web
+Equinox Hackathon
